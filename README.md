@@ -1,3 +1,3 @@
 # suprilpatil-demo
 this is my first git repository
-Author- Supril Patil
+Author- Supril Patil(inchanal)
